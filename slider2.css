@@ -6,19 +6,16 @@
 }
 
 .slider-cultos{
-    width: 50%;
+
     display: flex;
     justify-content: center;
-    height: 580px;
     margin: 0 auto;
 }
 
 .carousel{
     width: 80%;
-    height: 505px;
 }
 
 .carousel img{
     width: 100%;
-    height: 510px;
 }
