@@ -6,10 +6,11 @@
 }
 
 .slider-cultos{
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: center;
     height: 580px;
+    margin: 0 auto;
 }
 
 .carousel{
